@@ -15,6 +15,7 @@ $serif-primary: 'Roboto', sans-serif !default;
 $serif-secondary: 'Roboto', sans-serif !default;
 $sans-serif: 'Roboto', sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
+$font-title: 'Josefin Sans', sans-serif !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
