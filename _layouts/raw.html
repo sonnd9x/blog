@@ -1,4 +1,4 @@
 ---
 layout: none
 ---
-{{ content | jsonify }}
+{{ content | strip_html | strip_newlines | escape}}
