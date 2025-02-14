@@ -1,4 +1,6 @@
 ---
 layout: none
 ---
-{{ content | strip_html | strip_newlines | escape | normalize_whitespace | raw }}
+{% raw %}
+{{ content | strip_html | strip_newlines | escape | normalize_whitespace}}
+{% endraw %}
