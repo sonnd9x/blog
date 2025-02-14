@@ -11,11 +11,10 @@ $shadow-color: rgba(0, 0, 0, .2) !default;
 $code-color: #bf616a !default;
 
 // Fonts
-$serif-primary: 'Roboto', sans-serif !default;
-$serif-secondary: 'Roboto', sans-serif !default;
-$sans-serif: 'Roboto', sans-serif !default;
+$serif-primary: 'Josefin Sans', sans-serif !default;
+$serif-secondary: 'Josefin Sans', sans-serif !default;
+$sans-serif: 'Josefin Sans', sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
-$font-title: 'Josefin Sans', sans-serif !default;
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
