@@ -2,6 +2,7 @@
 layout: raw
 permalink: /quayxe
 ---
+{% raw %}
 {
   "event_activity": "65760d6559d7e788",
   "daily_task_id": 39152,
@@ -10,3 +11,4 @@ permalink: /quayxe
   "gapthu_type": 1,
   "noihinh": 39153
 }
+{% endraw %}
