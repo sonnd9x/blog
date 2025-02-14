@@ -1,0 +1,12 @@
+---
+layout: raw
+permalink: /quayxe
+---
+{
+  "event_activity": "65760d6559d7e788",
+  "daily_task_id": 39152,
+  "dapkeo": 33648,
+  "gapthu": 36713,
+  "gapthu_type": 1,
+  "noihinh": 39153
+}
